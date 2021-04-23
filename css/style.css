@@ -1,0 +1,91 @@
+body{
+    background: url(https://images.unsplash.com/photo-1527030280862-64139fba04ca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+}
+header{
+    text-align: center;
+    padding: 2%;
+    margin: 1%;
+    background-color: rgba(162, 127, 172, 0.5);
+}
+header a{
+    text-decoration: none;
+    color: black;
+}
+nav a{
+    padding: 1%;
+    margin: 1%;
+    text-decoration: none;
+    color: black;
+    background-color: rgb(169, 169, 169, 0.7);
+    border-radius: 14px;
+}
+main{
+    padding: 2%;
+    margin: 1%;
+    background-color: rgba(134, 125, 134, 0.5);
+}
+footer{
+    padding: 2%;
+    margin: 1%;
+    background-color: rgba(175, 112, 175, 0.8);
+}
+.main{
+    padding-top: 0%;
+    padding-left: 015%;
+    padding-right: 15%;
+    padding-bottom: 15%;
+    text-align: center;
+    font-size: 15mm;
+    font-family: 'Courier New', Courier, monospace;
+}
+.images{
+    padding: 2%;
+    margin: 1%;
+    background-color: rgb(250, 240, 201, 0.7);
+
+}
+figure{
+    padding: 2%;
+    margin: 1%;
+    border: solid black;
+    font-size:5mm;
+    border-radius: 20px;
+   
+}
+form{
+    border: solid black;
+    border-radius: 25px;
+    background-color: rgb(245, 223, 137, 0.7);
+    padding: 2%;
+    margin: 1%;
+}
+.about{
+    font-size: 8mm;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+figure:hover{
+    background-color:rgb(110, 108, 108); ;
+}
+nav a:hover{
+    background-color: rgb(255, 255, 255);
+}
+nav a:active{
+    background-color: rgb(139, 71, 71);
+}
+figure img:hover{
+    width: 60%;
+}
+footer button{
+    padding: 0.5%;
+    border-radius: 10px;
+    background-color: rgba(150, 104, 97, 0.8);
+}
+button a{
+    text-decoration: none;
+    color: black;
+}
+footer button:hover{
+    border: solid black;
+}
